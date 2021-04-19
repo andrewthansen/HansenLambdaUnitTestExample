@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HansenLambdaUnitTestExample", "HansenLambdaUnitTestExample\HansenLambdaUnitTestExample.csproj", "{4620393F-58DD-47FE-977B-517C7C1F5CD0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HansenLambdaUnitTestExample.Tests", "HansenLambdaUnitTestExample.Tests\HansenLambdaUnitTestExample.Tests.csproj", "{C661739F-1F52-4D0E-8A93-1C992579BF06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4620393F-58DD-47FE-977B-517C7C1F5CD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4620393F-58DD-47FE-977B-517C7C1F5CD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4620393F-58DD-47FE-977B-517C7C1F5CD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4620393F-58DD-47FE-977B-517C7C1F5CD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C661739F-1F52-4D0E-8A93-1C992579BF06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C661739F-1F52-4D0E-8A93-1C992579BF06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C661739F-1F52-4D0E-8A93-1C992579BF06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C661739F-1F52-4D0E-8A93-1C992579BF06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFC63C56-8BC5-47D7-8B9F-B3DE70152C79}
+	EndGlobalSection
+EndGlobal
