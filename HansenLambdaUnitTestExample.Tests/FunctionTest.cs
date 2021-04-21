@@ -52,6 +52,11 @@ namespace HansenLambdaUnitTestExample.Tests
             Assert.Equal(-50, car.Speed);
             car.Speed = -51;
             Assert.Equal(-50, car.Speed);
+            //adding your test from announcement
+            car.Speed = 4001230;
+            Assert.Equal(200, car.Speed);
+            car.Speed = -50023400;
+            Assert.Equal(-50, car.Speed);
         }
     }
 }

@@ -28,11 +28,11 @@ namespace HansenLambdaUnitTestExample
             get => _speed;
             set
             {
-                if (value == -51)
+                if (value <= -50)
                 {
                     _speed = -50;
                 }
-                else if(value == 201){
+                else if(value >= 200){
                     _speed = 200;
                 }
                 else
